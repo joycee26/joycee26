@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joycee26
 - 👀 I’m interested in making responsive website
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+Frontend Engineer | Full-Stack Developer with 5+ years of experience in React.js, Angular, TypeScript, and C#. Passionate about building scalable, high-performance web applications with MongoDB, SQL, and ASP.NET. Experienced in Git, CI/CD (Jenkins, Docker), and Agile workflows. Love collaborating, mentoring developers, and crafting clean, efficient code. Always exploring new technologies and open to exciting projects! 💻✨
 - 📫 How to reach me ...
 dabhi.joycee@gmail.com
 <!---
